@@ -32,7 +32,7 @@ const datasource = {
                 "largeSourceUrl": null,
                 "sources": [
                     {
-                        "url": "https://inteligenciadascoisas.com/post/20221209-t%c3%a1-assustado-com-as-evolu%c3%a7%c3%b5es-das-ias-olha-ent%c3%a3o-esse-chat-gtp/capa.jpg",
+                        "url": "import_background_image_here.jpg",
                         "size": "large"
                     }
                 ]
@@ -43,7 +43,7 @@ const datasource = {
                     "text": "texto"
                 }
             },
-            "logoUrl": "https://openaichatgpt.com.br/wp-content/uploads/2022/12/cxv1.png",
+            "logoUrl": "import_logo_here.png",
             "hintText": "Try asking, \"Question, what is the Linux command to shut down the PC?\""
         }
     }
