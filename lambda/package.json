@@ -1,7 +1,7 @@
 {
   "name": "alexagpt",
   "version": "1.2.0",
-  "description": "alexa hosted chat gpt",
+  "description": "alexagpt",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
